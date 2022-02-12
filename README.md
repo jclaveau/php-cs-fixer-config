@@ -2,6 +2,8 @@
 
 dxw's standard config for [php-cs-fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 
+[![Main](https://github.com/dxw/php-cs-fixer-config/actions/workflows/main.yml/badge.svg)](https://github.com/dxw/php-cs-fixer-config/actions/workflows/main.yml)
+
 ## Usage
 
 Run this:
